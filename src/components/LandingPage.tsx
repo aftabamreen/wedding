@@ -16,7 +16,11 @@ export function LandingPage() {
     <div className="relative min-h-screen overflow-hidden">
       {/* Fixed Video Background */}
       <div className="fixed inset-0 z-0">
-        <LoopingVideoSegment src="/src/assets/Blank_Template.mp4" start={35} end={40} />
+        <LoopingVideoSegment
+          src="https://res.cloudinary.com/dv6jciyf9/video/upload/v1767282800/Blank_Template_1_iss84e.mp4"
+          start={35}
+          end={40}
+        />
 
         {/* Animated Background Fallback */}
         <div className="absolute inset-0 bg-gradient-to-br from-maroon-900 via-gold-800 to-maroon-800 animate-pulse"></div>
