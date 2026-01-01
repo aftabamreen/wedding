@@ -1,0 +1,297 @@
+{
+  "wedding": {
+    "couple": {
+      "groom": {
+        "name": "Shaik Aftab Hussain",
+        "qualification": "B.Tech., Software Engineer",
+        "father": "Shaik Anwar Hussain",
+        "mother": "Mr. & Mrs. Shaik Anwar Hussain",
+        "grandparents": {
+          "paternal": "Late Mr. & Mrs. Mohammed Gouse",
+          "maternal": "Mr. & Mrs. Late Shaik Ahmed Hussain"
+        },
+        "business": "Aftab Enterprises",
+        "address": "Guru Raghavendra Nagar, Kurnool",
+        "contact": {
+          "phone1": "+91 7702330270",
+          "phone2": "+91 6309320816"
+        },
+        "image": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246837/Aftab_Main_agi8pr.jpg"
+      },
+      "bride": {
+        "name": "Momin Amreen",
+        "qualification": "B.Tech., Software Engineer",
+        "father": "Momin Ibrahim",
+        "mother": "Mr. & Mrs. Momin Ibrahim",
+        "location": "Kurnool",
+        "contact": {
+          "phone1": "+91 7702330270",
+          "phone2": "+91 6309320816"
+        },
+        "image": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246837/Amreen_Main_ekysx2.jpg"
+      }
+    },
+    "events": [
+      {
+        "name": "JODE",
+        "displayName": "Jode",
+        "date": "Thursday, 8th January 2026",
+        "time": "8:00 PM",
+        "type": "Dinner",
+        "venue": "King's Palace Grand Convention",
+        "address": "Bellary Road, Kurnool",
+        "blessing": "May Almighty Allah bless the couple with tranquility good health, Love, barakah, strengthen imaan as they complete each other's and guide them through each phase of the life. Ameen",
+        "preTitle": "Insha Allah"
+      },
+      {
+        "name": "SUNNAT-E-NIKAH",
+        "displayName": "Sunnat-e-Nikah",
+        "date": "Friday, 9th January 2026",
+        "hijriDate": "19th Rajab-ul-Murajjab 1447 Hijri",
+        "time": "After Maghrib (7:30 PM)",
+        "timeDetails": "Nikah: After Maghrib (7:30 pm) Dinner: Follows",
+        "type": "Nikah followed by Dinner",
+        "venue": "King's Palace Grand Convention",
+        "address": "Bellary Road, Kurnool",
+        "preTitle": "Insha Allah"
+      },
+      {
+        "name": "VALIMA",
+        "displayName": "Valima",
+        "date": "Sunday, 11th January 2026",
+        "time": "1:00 PM",
+        "type": "Lunch",
+        "venue": "Pushpa Raju Function Hall",
+        "address": "Bellary Road, Kurnool",
+        "preTitle": "Insha Allah"
+      }
+    ],
+    "venue": {
+      "main": {
+        "name": "King's Palace Grand Convention",
+        "address": "Bellary Road, Kurnool, Andhra Pradesh, India",
+        "phone": "+91 7702330270",
+        "email": "contact@grandconvention.com",
+        "coordinates": {
+          "lat": 15.813092,
+          "lng": 77.9975554
+        }
+      },
+      "valima": {
+        "name": "Pushpa Raju Function Hall",
+        "address": "Bellary Road, Kurnool, Andhra Pradesh, India",
+        "coordinates": {
+          "lat": 15.809624,
+          "lng": 77.9859181
+        }
+      },
+      "landmarks": [
+        {
+          "name": "Kurnool Railway Station",
+          "distance": "8 km",
+          "time": "15 min drive"
+        },
+        {
+          "name": "Rajiv Gandhi Airport (HYD)",
+          "distance": "215 km",
+          "time": "3.5 hrs drive"
+        },
+        {
+          "name": "Kurnool Bus Station",
+          "distance": "6 km",
+          "time": "12 min drive"
+        },
+        {
+          "name": "Orvakal Rock Garden",
+          "distance": "20 km",
+          "time": "25 min drive"
+        }
+      ]
+    },
+    "gallery": {
+      "portrait": [
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246837/Aftab_Gall_1_gbrgwg.jpg",
+          "alt": "Couple portrait 1"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246837/Amreen_Gall_4_w8aja4.jpg",
+          "alt": "Couple portrait 2"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246836/Amreen_Gall_3_lzdew6.jpg",
+          "alt": "Engagement"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767263929/9699f71e-debd-4f87-9781-761d1a67a51e.png",
+          "alt": "Ring Pose"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246837/Aftab_Gall_2_dgbh6m.jpg",
+          "alt": "Square portrait 1",
+          "aspectRatio": "1:1"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246836/Gall_1_dlasr6.jpg",
+          "alt": "Square portrait 2",
+          "aspectRatio": "1:1"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246836/Aftab_Gall_4_eciwyx.jpg",
+          "alt": "Square portrait 3",
+          "aspectRatio": "1:1"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246835/Gall_2_m446m3.jpg",
+          "alt": "Square portrait 4",
+          "aspectRatio": "1:1"
+        }
+      ],
+      "landscape": [
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246835/Aftab_Gall_3_cbap0x.jpg",
+          "alt": "Romantic moment"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246836/Gall_4_i4j6d6.jpg",
+          "alt": "Pre-wedding shoot"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246836/Gall_3_yqmj0i.jpg",
+          "alt": "Traditional attire"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246836/Amreen_Gall_1_xhxyzc.jpg",
+          "alt": "Wide landscape 1",
+          "aspectRatio": "16:9"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246837/Amreen_Gall_2_dec9bt.jpg",
+          "alt": "Medium landscape 1",
+          "aspectRatio": "4:3"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246835/Aftab_Gall_5_vymu9x.jpg",
+          "alt": "Medium landscape 2",
+          "aspectRatio": "4:3"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767246835/Amreen_Gall_5_obv9jw.jpg",
+          "alt": "Wide landscape 2",
+          "aspectRatio": "16:9"
+        },
+        {
+          "url": "https://res.cloudinary.com/dv6jciyf9/image/upload/v1767264044/175efe11-de99-4dae-8a4b-ea40153c3471.png",
+          "alt": "Ring wearing",
+          "aspectRatio": "16:9"
+        }
+      ],
+      "hashtags": [
+        "#AftabWedsAmreen",
+        "#InshaAllahJODE",
+        "#InshaAllahNikah",
+        "#InshaAllahValima",
+        "#KurnoolWedding2026"
+      ]
+    },
+    "navigation": [
+      {
+        "id": "home",
+        "label": "Home"
+      },
+      {
+        "id": "couple",
+        "label": "Our Story"
+      },
+      {
+        "id": "gallery",
+        "label": "Gallery"
+      },
+      {
+        "id": "venue",
+        "label": "Venue"
+      }
+    ],
+    "social": {
+      "instagram": "#",
+      "facebook": "#",
+      "email": "aftab.amreen.wedding@gmail.com",
+      "phone": "+91 7702330270"
+    },
+    "complimentsFrom": {
+      "groom": {
+        "name": "Mr. & Mrs. Shaik Anwar Hussain",
+        "text": "Solicits your gracious presence on the auspicious occasion of the Marriage Ceremony of our Beloved Son"
+      },
+      "groomAdditional": {
+        "name": "Amtul Rafa",
+        "qualification": "MBBS",
+        "relation": "Family & Friends",
+        "text": "With Best Compliments From"
+      },
+      "bride": {
+        "name": "Mr. & Mrs. Momin Ibrahim",
+        "text": "Solicits your gracious presence on the auspicious occasion of the Marriage Ceremony of our Beloved Daughter"
+      },
+      "brideAdditional": {
+        "names": "Momin Irfan, Shaik Sana, Momin Afreen, Momin Samreen",
+        "relation": "Near and Dear",
+        "text": "With Best Compliments From"
+      }
+    },
+    "theme": {
+      "colors": {
+        "ivory": {
+          "50": "#fdfbf7",
+          "100": "#faf6ed",
+          "200": "#f5efd9",
+          "300": "#ebe3c8",
+          "400": "#dfd3b0"
+        },
+        "gold": {
+          "50": "#fdfaf3",
+          "100": "#faf3e0",
+          "200": "#f4e4b8",
+          "300": "#e6c882",
+          "400": "#d4a952",
+          "500": "#c4942e",
+          "600": "#a67828",
+          "700": "#8a5f1f"
+        },
+        "maroon": {
+          "50": "#fdf5f5",
+          "100": "#fbe8e8",
+          "200": "#f5c9c9",
+          "300": "#e89494",
+          "400": "#d65858",
+          "500": "#8b1a1a",
+          "600": "#6d1414",
+          "700": "#4a0d0d",
+          "800": "#320909"
+        }
+      },
+      "fonts": {
+        "serif": "Cormorant Garamond, Playfair Display, Georgia, serif",
+        "sans": "Montserrat, Inter, system-ui, sans-serif",
+        "script": "Great Vibes, cursive",
+        "display": "Cinzel, serif"
+      }
+    },
+    "content": {
+      "hero": {
+        "preTitle": "Insha Allah",
+        "arabicBlessing": "Baarakallahu laka, wa baaraka alayka, Wa jama'a baynakumaa fee khayrin",
+        "blessing": "With the Blessings of Respected Great Grandparents Late Mr. & Mrs. Mohammed Gouse Under the Guardianship of Grandparents Mr. & Mrs. Late Shaik Ahmed Hussain",
+        "invitation": "Mr. & Mrs. Shaik Anwar Hussain Solicits your gracious presence on the auspicious occasion of the Marriage Ceremony of our Beloved Son",
+        "quote": "May Almighty Allah bless the couple with tranquility good health, Love, barakah, strengthen imaan as they complete each other's and guide them through each phase of the life. Ameen",
+        "eventSummary": "8 · 9 · 11",
+        "monthAndYear": "January 2026",
+        "backgroundVideo": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      "footer": {
+        "blessing": "With the blessings of Allah and our families",
+        "copyright": "© 2026 Aftab & Amreen. All rights reserved."
+      }
+    }
+  }
+}
