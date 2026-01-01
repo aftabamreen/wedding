@@ -60,8 +60,8 @@
   },
   "homepage": "https://aftabamreen.github.io/wedding",
   "scripts": {
+    "dev": "vite",
     "build": "vite build --base=/wedding/",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   }
 }
