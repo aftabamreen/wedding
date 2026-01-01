@@ -61,7 +61,7 @@
   "homepage": "https://aftabamreen.github.io/wedding",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/wedding/",
+    "build": "vite build",
     "preview": "vite preview"
   }
 }
