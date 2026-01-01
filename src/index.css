@@ -1963,8 +1963,8 @@ button {
 }
 
 .floating-nav-logo-circle {
-  width: 1.75rem;
-  height: 1.75rem;
+  width: 2rem;
+  height: 2rem;
   background: linear-gradient(to bottom right, var(--color-gold-500), var(--color-gold-700));
   border-radius: 50%;
   display: flex;

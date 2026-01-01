@@ -1,4 +1,4 @@
-import { Facebook, Instagram, Mail, Phone } from 'lucide-react';
+import { Mail, Phone } from 'lucide-react';
 import { useWeddingData } from '../hooks/useWeddingData';
 import { MughalCorner } from './MughalCorner';
 import { OrnamentalDivider } from './OrnamentalDivider';
@@ -28,18 +28,6 @@ export function Footer() {
 
           {/* Social Links */}
           <div className="flex items-center justify-center gap-6 mb-8">
-            <a
-              href={social.instagram}
-              className="w-12 h-12 border-2 border-gold-400 rounded-full flex items-center justify-center hover:bg-gold-500 hover:border-gold-500 transition-all duration-300 group"
-            >
-              <Instagram className="text-gold-400 group-hover:text-ivory-50" size={20} />
-            </a>
-            <a
-              href={social.facebook}
-              className="w-12 h-12 border-2 border-gold-400 rounded-full flex items-center justify-center hover:bg-gold-500 hover:border-gold-500 transition-all duration-300 group"
-            >
-              <Facebook className="text-gold-400 group-hover:text-ivory-50" size={20} />
-            </a>
             <a
               href={`mailto:${social.email}`}
               className="w-12 h-12 border-2 border-gold-400 rounded-full flex items-center justify-center hover:bg-gold-500 hover:border-gold-500 transition-all duration-300 group"
